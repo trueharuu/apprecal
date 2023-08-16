@@ -1,0 +1,13 @@
+# Parent Functions
+
+| Function                              | Domain & Range                                                                            | Key Points                                                                                              |
+| ------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Constant**<br>`f(x) = +0`           | Domain: `(-Infinity, +Infinity)`<br>Range: `+0`                                           | (`-2`, `+0`)<br>(`-1`, `+0`)<br>(`+0`, `+0`)<br>(`+1`, `+0`)<br>(`+2`, `+0`)                            |
+| **Linear**<br>f(x) = `x`              | Domain: `(-Infinity, +Infinity)`<br>Range: `(-Infinity, +Infinity)`                       | (`-2`, `-2`)<br>(`-1`, `-1`)<br>(`+0`, `+0`)<br>(`+1`, `+1`)<br>(`+2`, `+2`)                            |
+| **Quadratic**<br>f(x) = `x^2`         | Domain: `(-Infinity, +Infinity)`<br>Range: `[+0, +Infinity)`                              | (`-2`, `+4`)<br>(`-1`, `+1`)<br>(`+0`, `+0`)<br>(`+1`, `+1`)<br>(`+2`, `+2`)                            |
+| **Square Root**<br>f(x) = `sqrt(x)`   | Domain: `[+0, +Infinity)`<br>Range: `[+0, +Infinity)`                                     | (`-2`, `+2i`)<br>(`-1`, `+i`)<br>(`+0`, `+0`)<br>(`+1`, `+1`)<br>(`+2`, `+sqrt(2)`)                     |
+| **Absolute Value**<br>f(x) = `abs(x)` | Domain: `(-Infinity, +Infinity)`<br>Range: `[+0, +Infinity)`                              | (`-2`, `+2`)<br>(`-1`, `+1`)<br>(`+0`, `+0`)<br>(`+1`, `+1`)<br>(`+2`, `+2`)                            |
+| **Cubic**<br>f(x) = `x^3`             | Domain: `(-Infinity, +Infinity)`<br>Range: `(-Infinity, +Infinity)`                       | (`-2`, `-8`)<br>(`-1`, `-1`)<br>(`+0`, `+0`)<br>(`+1`, `+1`)<br>(`+2`, `+8`)                            |
+| **Rational**<br>f(x) = `1/x`          | Domain: `(-Infinity, +0)` `(+0, +Infinity)`<br>Range: `(-Infinity, +0)` `(+0, +Infinity)` | (`-2`, `-1/2`)<br>(`-1`, `-1`)<br>(`+0`, `undefined`)<br>(`+1`, `+1`)<br>(`+2`, `+1/2`)                 |
+| **Exponential**<br>f(x) = `2 ^ x`     | Domain: `(-Infinity, +Infinity)`<br>Range: `(+0, +Infinity)`                              | (`-2`, `1/4`)<br>(`-1`, `+1/2`)<br>(`+0`, `+1`)<br>(`+1`, `+2`)<br>(`+2`, `+4`)                         |
+| **Logarithmic**<br>f(x) = `ln(x)`     | Domain: `(+0, +Infinity)`<br>Range: `(-Infinity, +Infinity)`                              | (`-2`, `ln(2) + i * pi`)<br>(`-1`, `i * pi`)<br>(`+0`, `-Infinity`)<br>(`+1`, `+0`)<br>(`+2`, `ln(+2)`) |
