@@ -64,7 +64,7 @@
 - Y-Intercept: `x = +2`
 - Increasing: `(-6, -2)` `(+3, +Infinity)`
 - Decreasing: `(-2, +3)`
-- Constant: `x = -2` `x = +3`
+- Constant: None
 - Zeroes: `x = -5` `x = +3`
 - Is `(-6, -3)` on the graph of `f`?: `No`
 - Where is `f(x) >= 0`?: `[-5, +Infinity)`
