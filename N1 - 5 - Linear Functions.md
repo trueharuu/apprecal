@@ -7,7 +7,7 @@ Write the equation of each line in slope-intercept form satisfying the given con
 1. Slope is $-\frac{2}{3}$ and y-intercept is $-1$.
 > $y = -\frac{2}{3}x - 1$
 2. A horizontal line through $(5, -1)$.
-> For any point $(a, b)$, the line $x - a + b$ will pass through it
+> *For any point $(a, b)$, the line $x - a + b$ will pass through it*
 > 
 > $x - 5 - 1 \Rightarrow x - 6$
 3. Through $(5, -3)$ and $(-7, -1)$.
